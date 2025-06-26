@@ -37,8 +37,8 @@ Welcome to my GitHub profile! I'm a passionate **Laravel Backend Developer** and
 
 ## 📫 How to Reach Me
 
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
+- 📧 Email: olamilekanomosanya@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/olamilekan](https://www.linkedin.com/in/olamilekan13/)
 - 🌍 Website/Blog: [yourwebsite.com](https://yourwebsite.com) *(optional)*
 
 ---
