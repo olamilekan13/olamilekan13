@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Olamilekan Omosanya
 
-Welcome to my GitHub profile! I'm a passionate **Laravel Backend Developer** and a dedicated **Cybersecurity Analyst in training**. I'm driven by curiosity, security best practices, and clean code.
+Welcome to my GitHub profile! I'm a passionate **Laravel Backend Developer** and a dedicated **Cybersecurity Analyst**. I'm driven by curiosity, security best practices, and clean code.
 
 ---
 
@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I'm a passionate **Laravel Backend Developer** and
 
 📄 Download my latest cybersecurity project/report below:
 
-[![Kali Linux Installation Guide](https://img.shields.io/badge/Download%20Portfolio-Cybersecurity-blue?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/olamilekan13/olamilekan13/blob/main/Basic%20Lab%20Install%20Kali%20Linux%20-portfolio.pdf)
+[![Kali Linux Installation Guide](https://img.shields.io/badge/Basic-Lab%20Portfolio-Cybersecurity-blue?style=for-the-badge&logo=adobeacrobatreader)](Basic Lab Install Kali Linux -portfolio.pdf)
 
 ---
 
@@ -39,10 +39,11 @@ Welcome to my GitHub profile! I'm a passionate **Laravel Backend Developer** and
 
 - 📧 Email: olamilekanomosanya@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/olamilekan](https://www.linkedin.com/in/olamilekan13/)
-- 🌍 Website/Blog: [yourwebsite.com](https://yourwebsite.com) *(optional)*
 
 ---
 
 <!--
-**olamilekan13/olamilekan13** is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
+**olamilekan13/olamilekan13** is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.- 
+🌍 Website/Blog: [yourwebsite.com](https://yourwebsite.com) *(optional)*
+
 -->
