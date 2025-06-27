@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I'm a passionate **Laravel Backend Developer** and
 
 📄 Download my latest cybersecurity project/report below:
 
-[![Kali Linux Installation Guide](https://github.com/olamilekan13/olamilekan13/blob/main/Basic%20Lab%20Install%20Kali%20Linux%20-portfolio.pdf)
+[![Kali Linux Installation Guide](https://img.shields.io/badge/Download%20Portfolio-Cybersecurity-blue?style=for-the-badge&logo=adobeacrobatreader)(https://github.com/olamilekan13/olamilekan13/blob/main/Basic%20Lab%20Install%20Kali%20Linux%20-portfolio.pdf)
 
 ---
 
