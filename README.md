@@ -31,7 +31,7 @@
 | 🛡️ **Project Name**         | 📃 **Project Description**                                          |
 |-----------------------------|--------------------------------------------------------------------|
 | Basic Linux Setup           |   [How to set up Kali Linux](https://github.com/olamilekan13/olamilekan13/blob/main/Basic%20Lab%20Install%20Kali%20Linux%20-portfolio.pdf)   |
-| Metasploit Lab              | .[Exploited vulnerable services on simulated network targets]()       |
+| Metasploit Lab              | [Exploited vulnerable services on simulated network targets](https://github.com/olamilekan13/olamilekan13/blob/main/Securing%20Atibyan%20Network-%20Project%20Defense.pdf)       |
 | Burp Suite Testing          | Performed web application scanning and manual testing.             |
 | Nmap Scanning               | Conducted network reconnaissance on lab environments.              |
 | VirtualBox Lab Setup        | Built isolated VMs for penetration testing and hands-on practice.  |
