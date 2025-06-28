@@ -49,7 +49,7 @@
 ## 📫 How to Reach Me
 
 - 📧 Email: olamilekanomosanya@gmail.com 
-- 💼 LinkedIn: [linkedin.com/in/yourname](https://www.linkedin.com/in/olamilekan13/)
+- 💼 LinkedIn: [linkedin](https://www.linkedin.com/in/olamilekan13/)
 
 ---
 
