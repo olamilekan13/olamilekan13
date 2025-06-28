@@ -14,6 +14,7 @@
 - ⚙️ **Laravel backend developer** building scalable and secure APIs.
 - 📚 Lifelong learner exploring new technologies and security tools.
 
+
 ---
 
 ## 📊 GitHub Stats
@@ -29,7 +30,7 @@
 
 | 🛡️ **Project Name**         | 📃 **Project Description**                                          |
 |-----------------------------|--------------------------------------------------------------------|
-| Linux                       | File permission, user and file management.                         |
+| Basic Linux Setup           |   [How to set up Kali Linux](https://github.com/olamilekan13/olamilekan13/blob/main/Basic%20Lab%20Install%20Kali%20Linux%20-portfolio.pdf)   |
 | Metasploit Lab              | Exploited vulnerable services on simulated network targets.        |
 | Burp Suite Testing          | Performed web application scanning and manual testing.             |
 | Nmap Scanning               | Conducted network reconnaissance on lab environments.              |
