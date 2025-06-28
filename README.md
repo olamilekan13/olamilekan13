@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hello, I'm Olamilekan Omosanya</h1>
 
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"></a>
-  <a href="https://linkedin.com/in/yourname"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+  <a href="mailto:olamilekanomosanya@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"></a>
+  <a href="https://www.linkedin.com/in/olamilekan13"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
   <img src="https://komarev.com/ghpvc/?username=olamilekan13&style=for-the-badge" alt="Profile views counter">
 </p>
 
@@ -48,8 +48,8 @@
 
 ## 📫 How to Reach Me
 
-- 📧 Email: your.email@example.com  
-- 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
+- 📧 Email: olamilekanomosanya@gmail.com 
+- 💼 LinkedIn: [linkedin.com/in/yourname](https://www.linkedin.com/in/olamilekan13/)
 
 ---
 
