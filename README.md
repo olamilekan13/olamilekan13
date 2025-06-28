@@ -21,8 +21,8 @@
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=olamilekan13&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olamilekan13&layout=compact&hide_border=true&langs_count=8"/>
-</p>
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olamilekan13&layout=compact&hide_border=true&langs_count=8"/>
+</p> -->
 
 ---
 
@@ -31,7 +31,7 @@
 | 🛡️ **Project Name**         | 📃 **Project Description**                                          |
 |-----------------------------|--------------------------------------------------------------------|
 | Basic Linux Setup           |   [How to set up Kali Linux](https://github.com/olamilekan13/olamilekan13/blob/main/Basic%20Lab%20Install%20Kali%20Linux%20-portfolio.pdf)   |
-| Metasploit Lab              | Exploited vulnerable services on simulated network targets.        |
+| Metasploit Lab              | .[Exploited vulnerable services on simulated network targets]()       |
 | Burp Suite Testing          | Performed web application scanning and manual testing.             |
 | Nmap Scanning               | Conducted network reconnaissance on lab environments.              |
 | VirtualBox Lab Setup        | Built isolated VMs for penetration testing and hands-on practice.  |
